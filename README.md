@@ -2,6 +2,8 @@
 
 This repo provides some commands and scripts used by NixOS.
 
-|command|use|
+|scripts|use|
 |----|----|
-|closewindow|Used to close windows in niri to exclude Hyprland|
+|xs.nix|enter the xwayland-satellite build environment|
+
+[xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite)
